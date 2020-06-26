@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc1291e2-0668-4290-b7ff-3289817d1ddc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/illustration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/illustration2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/illustration3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/koi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pizza1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/important.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/store/login_store.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/store/login_store.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/google.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/register.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/start.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/verified.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constant/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constant/constant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/account.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/account.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/search.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1btsoppLlzB8zKwQFzbJFWHqfEB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Point-Of-Sale-System-POS-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\android\app" />
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\assets" />
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\lib\view" />
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/lib/view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\assets" />
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\lib" />
+      <recent name="C:\Users\tanra\AndroidStudioProjects\food_delivery\lib\view" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1291e2-0668-4290-b7ff-3289817d1ddc" name="Default Changelist" comment="" />
+      <created>1589462901642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589462901642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="71" key="#Notifications" timestamp="1593095759008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1593095759008" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592585819814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592585819814" />
+    <state width="1476" height="200" key="GridCell.Tab.0.bottom" timestamp="1592498245242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592498245242" />
+    <state width="1476" height="200" key="GridCell.Tab.0.center" timestamp="1592498245242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592498245242" />
+    <state width="1476" height="200" key="GridCell.Tab.0.left" timestamp="1592498245242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592498245242" />
+    <state width="1476" height="200" key="GridCell.Tab.0.right" timestamp="1592498245242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592498245242" />
+    <state x="287" y="1" key="SettingsEditor" timestamp="1592928631395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="1" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592928631395" />
+    <state x="100" y="100" width="1336" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1593095764300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1593095764300" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593095721488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593095721488" />
+    <state x="398" y="109" width="740" height="606" key="find.popup" timestamp="1592284092511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="109" width="740" height="606" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592284092511" />
+    <state x="613" y="250" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592928324225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="250" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1592928324225" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view/search.dart</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view/home.dart</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view/register.dart</url>
+          <line>195</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view/verified.dart</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
